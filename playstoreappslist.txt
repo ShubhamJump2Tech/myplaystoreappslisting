@@ -4,7 +4,7 @@
   [
    { "appname":"Christmas Photo Frames Editor",
 
-      "appicon":"https://raw.githubusercontent.com/ShubhamJump2Tech/myapplist/master/myapps/christamas_photo_frames.webp",
+      "appicon":"https://raw.githubusercontent.com/ShubhamJump2Tech/myplaystoreappslisting/master/My%20apps%20Appicons/christamas_photo_frames.webp",
 
       "appurl":"https://play.google.com/store/apps/details?id=com.app.christamasphotoframes&hl=en"
 
@@ -12,14 +12,14 @@
 
     { "appname":"New Year Photo Frames Editor 2020",
 
-      "appicon":"https://raw.githubusercontent.com/ShubhamJump2Tech/myapplist/master/myapps/newyearphotoframes.webp",
+      "appicon":"https://raw.githubusercontent.com/ShubhamJump2Tech/myplaystoreappslisting/master/My%20apps%20Appicons/newyearphotoframes.webp",
 
       "appurl":"https://play.google.com/store/apps/details?id=com.app.newyearphotoframes&hl=en"
 
     },
     {"appname":"Easy C Programming",
 
-      "appicon":"https://raw.githubusercontent.com/ShubhamJump2Tech/myapplist/master/myapps/easy_c.png",
+      "appicon":"https://raw.githubusercontent.com/ShubhamJump2Tech/myplaystoreappslisting/master/My%20apps%20Appicons/easy_c.png",
 
       "appurl":"https://play.google.com/store/apps/details?id=com.app.cprogramingapp&hl=en"
 
@@ -27,21 +27,21 @@
 
     {"appname":"Birthday Photo Frames",
 
-      "appicon":"https://raw.githubusercontent.com/ShubhamJump2Tech/myapplist/master/myapps/birthdayphotoframes.webp",
+      "appicon":"https://raw.githubusercontent.com/ShubhamJump2Tech/myplaystoreappslisting/master/My%20apps%20Appicons/birthdayphotoframes.webp",
 
       "appurl":"https://play.google.com/store/apps/details?id=com.app.birthdayphotoframes&hl=en"
 
     },
     { "appname":"Birthday Photo Frames Editor",
 
-      "appicon":"https://raw.githubusercontent.com/ShubhamJump2Tech/myapplist/master/myapps/birthdayphotoframes.webp",
+      "appicon":"https://raw.githubusercontent.com/ShubhamJump2Tech/myplaystoreappslisting/master/My%20apps%20Appicons/birthdayphotoframes.webp",
 
       "appurl":"https://play.google.com/store/apps/details?id=com.app.birthdayphotoframeseditor&hl=en"
 
     },
     { "appname":"Lord Ganesh Photo Frames",
 
-      "appicon":"https://raw.githubusercontent.com/ShubhamJump2Tech/myapplist/master/myapps/ganesh_photo_frames.png",
+      "appicon":"https://raw.githubusercontent.com/ShubhamJump2Tech/myplaystoreappslisting/master/My%20apps%20Appicons/ganesh_photo_frames.png",
 
       "appurl":"https://play.google.com/store/apps/details?id=com.app.lordganeshaphotoframes&hl=en"
 
